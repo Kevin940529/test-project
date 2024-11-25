@@ -5,6 +5,6 @@ public class Main {
 
         System.out.println("Eriks bidrag till Kevins projekt");
 
-        System.out.println("ändring 2,  push origin master");
+        System.out.println("ändring 2, i EriksBranch  push origin master");
     }
 }
